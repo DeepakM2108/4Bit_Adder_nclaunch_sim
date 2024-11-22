@@ -112,7 +112,8 @@ Developed by :- DEEPAN.A
     
       
 	After this you can see the window like below 
-![Screenshot (118)](https://github.com/user-attachments/assets/b119c506-886b-435a-8225-2f1d0ebf97e1)
+![Screenshot (136)](https://github.com/user-attachments/assets/17036db0-2046-43f9-809e-0427a1816495)
+
 ### Fig 3:Invoke the Cadence Environment
 
 	To Launch Simulation tool 
@@ -124,14 +125,16 @@ or
 •	linux:/> nclaunch& // On subsequent calls to NCVERILOG 
 
 	It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple Step .
-![Screenshot (119)](https://github.com/user-attachments/assets/8718203e-d540-4609-aaf8-b46dc9859714)
+![Screenshot (137)](https://github.com/user-attachments/assets/ba7be6c4-e549-42e8-9ff3-dc5b46dd0423)
+
 
 ### Fig 4:Setting Multi-step simulation
 
 	Select Multiple Step and then select “Create cds.lib File” .
 
 	Click the cds.lib file and save the file by clicking on Save option 
-![Screenshot (120)](https://github.com/user-attachments/assets/8d4f54b8-e034-4619-84a4-f6eef24d71a9)
+![Screenshot (138)](https://github.com/user-attachments/assets/61478589-2b29-4c4c-867a-b1f6dffe7371)
+
 
 ### Fig 5:cds.lib file Creation
 
@@ -143,7 +146,8 @@ or
 
 •	A Click “OK” in the “nclaunch: Open Design Directory” window as shown in below figure 
 
-![image](https://github.com/user-attachments/assets/781b297a-11e9-4140-89c5-ee3b0d15bbd4)
+![Screenshot (140)](https://github.com/user-attachments/assets/a8b32598-9b87-4d98-bd11-32d9e3f05d12)
+
 
 ### Fig 6: Selection of Don’t include any libraries
 
